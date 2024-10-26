@@ -13,6 +13,11 @@ public static void main(String[]args) {
 	int marker=512;
 	double percentage=marker*0.46f;
 	System.out.println("percentage:"+percentage);
+	 int percentage1=marker*120;
+	 float percentage2=marker*0.46f;
+	System.out.println("percentage 1 value ="+percentage1);
+	System.out.println("percentage 2 value is =" +percentage2);
+	
 	
 	
 }
