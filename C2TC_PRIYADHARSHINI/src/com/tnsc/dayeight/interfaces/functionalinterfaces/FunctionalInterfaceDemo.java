@@ -12,4 +12,5 @@ public interface FunctionalInterfaceDemo {
 
 		System.out.println(g1.greet());
 
+	}
 }
