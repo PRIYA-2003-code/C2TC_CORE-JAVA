@@ -40,9 +40,7 @@ public class Customer {
 	//@override
 	public String toString() {
 		return "Customer [customerName=" + 
-		customerName + ", customerId=" + customerId + ", 
-		customerCity="
-		+ customerCity + "]";
+		customerName + ", customerId=" + customerId + ", customerCity="	+ customerCity + "]";
 	}
 	
 
